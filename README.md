@@ -4,6 +4,9 @@ This repo contains dynamic wallpapers from MacOS, converted to work on KDE Linux
 # How to use?
 Simply download what you want here and use it.
 
+# Vice-versa?
+I don't know.
+
 # Requirements
 In order for these wallpapers to work, make sure you have this KDE plugin:
 - **Dynamic Wallpaper** - https://github.com/zzag/plasma5-wallpapers-dynamic
