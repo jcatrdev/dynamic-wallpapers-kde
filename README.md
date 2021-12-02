@@ -1,11 +1,11 @@
-# Dynamic wallpapers for KDE!
+# Dynamic wallpapers for KDE Plasma
 This repo contains dynamic wallpapers from MacOS, converted to work on KDE Linux. This is for my personal usage only.
 
 # How to use?
 Simply download what you want here and use it.
 
 # Vice-versa?
-I don't know.
+No, it's not compatible with MacOS. It will only work in KDE.
 
 # Requirements
 In order for these wallpapers to work, make sure you have this KDE plugin:
@@ -26,4 +26,12 @@ You can check it via uploading here: https://www.virustotal.com/gui/home/upload
 5 - https://dynamicwallpaper.club/wallpaper/2ro2ieqgmix; gaz
 <br>
 6 - https://dynamicwallpaper.club/wallpaper/ma10m2ab50s; amamulsow
+<br>
+7 - https://dynamicwallpaper.club/wallpaper/6la1i2jp3vj; wallpapyrus
+<br>
+8 - https://dynamicwallpaper.club/wallpaper/ci7xe3twgfv; sebastianinman
+<br>
+9 - https://dynamicwallpaper.club/wallpaper/bgg6woxrz5n; dasalejo
+<br>
+10 - https://dynamicwallpaper.club/wallpaper/gpf7f97jk3b; MaxKulakov
 <br>
